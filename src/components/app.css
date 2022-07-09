@@ -1,0 +1,15 @@
+
+.foot{
+  bottom: 0;
+}
+
+.productDetail {
+  position: relative;
+  top: 230px;
+}
+
+/* #productDetail {
+  position: relative;
+  top: 230px;
+  color:red;
+} */
